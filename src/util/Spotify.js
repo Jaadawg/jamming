@@ -1,5 +1,5 @@
 const clientId = 'e5e63bd5c0bb4618b3f7bf28a9666f54';
-const redirect_uri = 'https://jaadawg.surge.sh';
+const redirect_uri = 'https://jaadawg.surge.sh/';
 let accessToken;
 
 const Spotify = {
